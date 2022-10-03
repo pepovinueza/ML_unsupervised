@@ -1,6 +1,5 @@
 # ML_unsupervised
 
-Descripción
 Ejercicios de algoritmos de Agrupació.
 
 - Ejercicio 1
